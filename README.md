@@ -6,12 +6,17 @@ This application is based on the calculation of the age of a dog. It is said tha
 
 This simple app only calculates the canine age based on the human age entered
 
+Unlike the original course, everything was done with View Binding
+
+
 It's very simple
 
 
 ## Primera aplicacion del Curso de Udemy Aprende Creando Apps
 
 Esta aplicacion se basa en el calculo de edad de un perro. Se dice que un año canino corresponde a 7 años humanos. 
+
+A diferencia del curso original todo se hizo con Vinculacion de Vista
 
 Esta simple app unicamente calcula la edad canina en base a la edad humana ingresada
 
